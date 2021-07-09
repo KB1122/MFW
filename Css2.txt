@@ -1,0 +1,6 @@
+.text {
+		color:#196cb0
+		font-family:Fantasy
+	   }
+	   
+	   
